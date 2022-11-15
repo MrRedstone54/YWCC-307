@@ -1,1 +1,1 @@
-
+This Presntation is about how the interactions between Artificial Intelegence and the World, going over three major areas: AR, AI, and Artificial Limbs. It gives various examples of each, and how they impact the world around them.
